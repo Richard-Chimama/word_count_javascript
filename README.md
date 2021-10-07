@@ -1,3 +1,4 @@
+Word counter!!!
 
 Quick start:
 load the index.html in the browser
